@@ -8,6 +8,10 @@ The project focuses on creating a welcoming online presence for a neighbourhood 
 
 ![The Northern Grind website preview](screenshots/northern-grind-preview.png)
 
+🌐 Live Website
+
+**[Visit The Northern Grind](https://leoncasburn.github.io/the-northern-grind/)**
+
 ## ✨ Features
 
 - **Responsive design** — layouts adapted for desktop and mobile screens.
