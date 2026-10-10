@@ -4,6 +4,10 @@ A modern, responsive website concept for **The Northern Grind**, a fictional loc
 
 The project focuses on creating a welcoming online presence for a neighbourhood café, combining a warm colour palette, clean layouts and subtle animations to create a friendly user experience across desktop and mobile devices.
 
+## 📸 Preview
+
+![The Northern Grind website preview](screenshots/northern-grind-preview.png)
+
 ## ✨ Features
 
 - **Responsive design** — layouts adapted for desktop and mobile screens.
